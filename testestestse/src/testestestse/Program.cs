@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 namespace testestestse
 {
     public class Program
-    {
+    {qsdfdqsfqdsfs
         public static void Main(string[] args)
         {
             var host = new WebHostBuilder()
@@ -18,7 +18,7 @@ namespace testestestse
                 .UseStartup<Startup>()
                 .Build();
 
-            host.Run();
+            host.Run();sqfdsfdsf
         }
     }
 }
